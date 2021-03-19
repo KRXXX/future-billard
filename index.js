@@ -20,8 +20,8 @@ function setup () {
 
 function draw () {
     // kolory
-    background('#f4b8d4')
-    fill('#11043b')
+    background('#593cd2')
+    fill('#d64846')
 
     // bramka
     rect(MIDDLE - 100, 50, 200, 15)
